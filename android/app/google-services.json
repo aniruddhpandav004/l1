@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768374463122",
+    "project_id": "loginscreen2-fbcae",
+    "storage_bucket": "loginscreen2-fbcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768374463122:android:62e4e65b7a95627bbca44b",
+        "android_client_info": {
+          "package_name": "com.example.loginscreenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768374463122-ppsjfiu9iej7gm7o9n9itpr3jm22p1hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuXXt689KmccmyX1EsiarUPzk_6rYy1i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768374463122-ppsjfiu9iej7gm7o9n9itpr3jm22p1hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
